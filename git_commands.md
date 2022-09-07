@@ -28,6 +28,13 @@
 
  ## git checkout
 
+ Эта команда используется для переключения между ветками или коммитами.
+
+        git checkout branch_name
+ или 
+
+        git checkout commit_name
+
  * * * * * * * * * * * * * 
 
  ## git branch
