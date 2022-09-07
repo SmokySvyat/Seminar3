@@ -63,7 +63,7 @@
  (собственно ```git diff```), разница между индексом и последним коммитом (```git diff --staged```),  
  или между любыми двумя коммитами. 
  
-        git diff master branchB
+        git diff master branchB 
 
  * * * * * * * * * * * * *  
 
